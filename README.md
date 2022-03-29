@@ -1,5 +1,3 @@
-## Hola, soy Rodrigo Gonzalez 👋
+## Hola, soy Rodrigo 👋
 
-Soy desarrollador backend de Monterrey, Nuevo León con 3 años de experiencia.
-
-Dentro de mis pasiones esta la programación y estoy buscando expander mis conocimientos.
+Desarrollador backend en Monterrey con 3 años de experiencia con lenguajes como python, php, javascript y C#.
