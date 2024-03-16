@@ -14,13 +14,13 @@
 
 #### **Levels**
 
-| Level | Description |
-|---------------|-------------|
-| ★★★★★         | SR level - Full knowledge of technology - Around 100 projects |
-| ★★★★☆         | Middle Advanced Level - Strong knowledge - Around 50 projects |
-| ★★★☆☆         | Middle level - Around 25 projects |
-| ★★☆☆☆         | JR Level - Basic Expertise - Less than 10 projects |
-| ★☆☆☆☆         | Entry Level - Fundamental Knowledge |
+| Stars | Level | Description |
+|---------------|---------------|---------------|
+| ★★★★★         | SR level | Full knowledge of technology - Around 100 projects |
+| ★★★★☆         | Middle Advanced Level | Strong knowledge - Around 50 projects |
+| ★★★☆☆         | Middle level | Around 25 projects |
+| ★★☆☆☆         | JR Level | Basic Expertise - Less than 10 projects |
+| ★☆☆☆☆         | Entry Level | Fundamental Knowledge |
 
 </div>
 
