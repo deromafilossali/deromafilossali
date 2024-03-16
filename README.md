@@ -23,10 +23,9 @@
 | ★☆☆☆☆         | Entry Level | Fundamental Knowledge |
 
 #### **IDE**
-| IDE       | Icon |&nbsp;&nbsp;&nbsp;| IDE       | Icon |&nbsp;&nbsp;&nbsp;| IDE       | Icon |
-|-------------|------|-----------------|-------------|------|-----------------|-------------|------|
-| **Visual Studio Code**     | ![VSCode](https://skillicons.dev/icons?i=vscode)          || **Pycharm**         | ![Pycharm](https://skillicons.dev/icons?i=pycharm)               || **Sublime**       | ![Sublime](https://skillicons.dev/icons?i=sublime)           |
 
+| **Visual Studio Code**     | ![VSCode](https://skillicons.dev/icons?i=vscode)          |&nbsp;&nbsp;&nbsp;| **Pycharm**         | ![Pycharm](https://skillicons.dev/icons?i=pycharm)               |&nbsp;&nbsp;&nbsp;| **Sublime**       | ![Sublime](https://skillicons.dev/icons?i=sublime)           |
+|-------------|------|-----------------|-------------|------|-----------------|-------------|------|
 </div>
 
 ###
