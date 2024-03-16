@@ -6,22 +6,24 @@
 
 #### **Knowledge**
 
-| Skill       | Icon | Mastery |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Mastery |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Mastery |
+| Skill       | Icon | Level |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Level |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Level |
 |-------------|------|---------|-----------------|-------------|------|---------|-----------------|-------------|------|---------|
-| **Python**        | ![Python](https://skillicons.dev/icons?i=py)               | ★★★☆☆  || **JavaScript**  | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ★★★★☆  || **HTML**        | ![HTML](https://skillicons.dev/icons?i=html)             | ★★★★★  |
-| **PHP**      | ![PHP](https://skillicons.dev/icons?i=php)           | ★★★☆☆  || **TypeScript**  | ![TypeScript](https://skillicons.dev/icons?i=typescript) | ★★★★☆  || **CSS**         | ![CSS](https://skillicons.dev/icons?i=css)               | ★★★★★  |
-| **JS**           | ![C](https://skillicons.dev/icons?i=c)                     | ★★★★☆  || **Python**      | ![Python](https://skillicons.dev/icons?i=python)         | ★★★★☆  || **MongoDB**     | ![MongoDB](https://skillicons.dev/icons?i=mongodb)       | ★★★☆☆  |
-| **C++**         | ![C++](https://skillicons.dev/icons?i=cpp)                 | ★★★☆☆  || **Lua**         | ![Lua](https://skillicons.dev/icons?i=lua)               | ★★★☆☆  || **MySQL**       | ![MySQL](https://skillicons.dev/icons?i=mysql)           | ★★★★☆  |
-| **Node.js**     | ![Node.js](https://skillicons.dev/icons?i=nodejs)          | ★★★★☆  || **Git**         | ![Git](https://skillicons.dev/icons?i=git)               | ★★★★☆  || **Linux**       | ![Linux](https://skillicons.dev/icons?i=linux)           | ★★★☆☆  |
+| **Python**        | ![Python](https://skillicons.dev/icons?i=py)               | ★★★★☆  || **MySQL**  | ![MySQL](https://skillicons.dev/icons?i=mysql) | ★★★☆☆  || **PHP**        | ![PHP](https://skillicons.dev/icons?i=php)             | ★★☆☆☆  |
+| **Django**      | ![Django](https://skillicons.dev/icons?i=django)           | ★☆☆☆☆  || **MongoDB**  | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ★☆☆☆☆  || **JavaScript**         | ![JavaScript](https://skillicons.dev/icons?i=js)               | ★★★☆☆  |
+| **PyTorch**           | ![PyTorch](https://skillicons.dev/icons?i=pytorch)                     | ★☆☆☆☆  || **Git**      | ![Git](https://skillicons.dev/icons?i=git)         | ★★☆☆☆  || **C#**     | ![C#](https://skillicons.dev/icons?i=cs)       | ★★☆☆☆  |
+| **TensorFlow**         | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)                 | ★☆☆☆☆  || **Bash**         | ![Bash](https://skillicons.dev/icons?i=bash)               | ★★☆☆☆  || **Azure**       | ![Azure](https://skillicons.dev/icons?i=azure)           | ★★☆☆☆  |
+| **Mint**     | ![Mint](https://skillicons.dev/icons?i=mint)          | ★★☆☆☆  || **Postman**         | ![Postman](https://skillicons.dev/icons?i=postman)               | ★★★☆☆  || **Linux**       | ![Linux](https://skillicons.dev/icons?i=linux)           | ★☆☆☆☆  |
 
-#### **Mastery Levels Legend**
+#### ** Levels **
 
-| Mastery Level | Description |
+| Level | Description |
 |---------------|-------------|
-| ★★★★★         | Comprehensive expertise, can autonomously manage complex projects. |
-| ★★★★☆         | Strong proficiency, capable of handling advanced tasks efficiently. |
-| ★★★☆☆         | Solid grasp of basics and some advanced concepts, requires minimal guidance. |
-| ★★☆☆☆         | Understands fundamental principles, needs guidance for most tasks. |
+| ★★★★★         | SR level - Full knowledge of technology - Around 100 projects |
+| ★★★★☆         | Middle Advanced Level - Strong knowledge - Around 50 projects |
+| ★★★☆☆         | Middle level - Less than 20 projects |
+| ★★☆☆☆         | JR Level - Basic Expertise - Less than 5 projects |
+| ★☆☆☆☆         | Entry Level - Fundamental Knowledge |
+
 
 </div>
 
