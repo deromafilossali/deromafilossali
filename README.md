@@ -29,7 +29,7 @@
 
 #### **IDE**
 
-| **Visual Studio Code**     | ![VSCode](https://skillicons.dev/icons?i=vscode)          | **Pycharm**         | ![Pycharm](https://skillicons.dev/icons?i=pycharm)               | **Sublime**       | ![Sublime](https://skillicons.dev/icons?i=sublime)           |
+| **VS Code**     | ![VSCode](https://skillicons.dev/icons?i=vscode)          | **Pycharm**         | ![Pycharm](https://skillicons.dev/icons?i=pycharm)               | **Sublime**       | ![Sublime](https://skillicons.dev/icons?i=sublime)           |
 |-------------|------|-------------|------|-------------|------|
 </div>
 
