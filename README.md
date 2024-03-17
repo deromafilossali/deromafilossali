@@ -2,15 +2,20 @@
 
 <div align="center">
 
-#### **Knowledge and Interests**
+#### **Experience**
 
 | Skill       | Icon | Level |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Level |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Level |
 |-------------|------|---------|-----------------|-------------|------|---------|-----------------|-------------|------|---------|
-| **Python**        | ![Python](https://skillicons.dev/icons?i=py)               | ★★★★☆  || **MySQL**  | ![MySQL](https://skillicons.dev/icons?i=mysql) | ★★★★☆  || **PHP**        | ![PHP](https://skillicons.dev/icons?i=php)             | ★★★☆☆  |
-| **Django**      | ![Django](https://skillicons.dev/icons?i=django)           | ★☆☆☆☆  || **MongoDB**  | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ★☆☆☆☆  || **JavaScript**         | ![JavaScript](https://skillicons.dev/icons?i=js)               | ★★★☆☆  |
-| **PyTorch**           | ![PyTorch](https://skillicons.dev/icons?i=pytorch)                     | ★☆☆☆☆  || **Git**      | ![Git](https://skillicons.dev/icons?i=git)         | ★★☆☆☆  || **C#**     | ![C#](https://skillicons.dev/icons?i=cs)       | ★★☆☆☆  |
-| **TensorFlow**         | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)                 | ★☆☆☆☆  || **Bash**         | ![Bash](https://skillicons.dev/icons?i=bash)               | ★★☆☆☆  || **Azure**       | ![Azure](https://skillicons.dev/icons?i=azure)           | ★★☆☆☆  |
-| **Mint**     | ![Mint](https://skillicons.dev/icons?i=mint)          | ★★☆☆☆  || **Postman**         | ![Postman](https://skillicons.dev/icons?i=postman)               | ★★★☆☆  || **Linux**       | ![Linux](https://skillicons.dev/icons?i=linux)           | ★☆☆☆☆  |
+| **Python**        | ![Python](https://skillicons.dev/icons?i=py)               | ★★★★☆  || **PHP**  | ![PHP](https://skillicons.dev/icons?i=php) | ★★★☆☆  || **C#**        | ![C#](https://skillicons.dev/icons?i=cs)             | ★★☆☆☆  |
+| **MySQL**      | ![MySQL](https://skillicons.dev/icons?i=mysql)           | ★★★★☆  || **JavaScript**  | ![JavaScript](https://skillicons.dev/icons?i=js) | ★☆☆☆☆  || **Postman**         | ![Postman](https://skillicons.dev/icons?i=postman)               | ★★★☆☆  |
+| **Azure**           | ![Azure](https://skillicons.dev/icons?i=azure)                     | ★★☆☆☆  || **Git**      | ![Git](https://skillicons.dev/icons?i=git)         | ★★☆☆☆  || **Bash**     | ![Bash](https://skillicons.dev/icons?i=bash)       | ★★☆☆☆  |
+
+#### **Currently Learning**
+
+| Skill       | Icon | Level |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Level |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Level |
+|-------------|------|---------|-----------------|-------------|------|---------|-----------------|-------------|------|---------|
+| **TensorFlow**         | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)                 | ★☆☆☆☆  || **Django**      | ![Django](https://skillicons.dev/icons?i=django)           | ★☆☆☆☆  || **Linux**       | ![Linux](https://skillicons.dev/icons?i=linux)           | ★☆☆☆☆  |
+| **MongoDB**  | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ★☆☆☆☆  || **PyTorch**           | ![PyTorch](https://skillicons.dev/icons?i=pytorch)                     | ★☆☆☆☆  || **Mint**     | ![Mint](https://skillicons.dev/icons?i=mint)          | ★★☆☆☆  |
 
 #### **Levels**
 
@@ -24,7 +29,7 @@
 
 #### **IDE**
 
-| **Visual Studio Code**     | ![VSCode](https://skillicons.dev/icons?i=vscode)          |&nbsp;&nbsp;&nbsp;| **Pycharm**         | ![Pycharm](https://skillicons.dev/icons?i=pycharm)               |&nbsp;&nbsp;&nbsp;| **Sublime**       | ![Sublime](https://skillicons.dev/icons?i=sublime)           |
+| **Visual Studio Code**     | ![VSCode](https://skillicons.dev/icons?i=vscode)          | **Pycharm**         | ![Pycharm](https://skillicons.dev/icons?i=pycharm)               | **Sublime**       | ![Sublime](https://skillicons.dev/icons?i=sublime)           |
 |-------------|------|-----------------|-------------|------|-----------------|-------------|------|
 </div>
 
