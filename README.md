@@ -10,7 +10,7 @@
 | **MySQL**      | ![MySQL](https://skillicons.dev/icons?i=mysql)           | ★★★★☆  || **JavaScript**  | ![JavaScript](https://skillicons.dev/icons?i=js) | ★★☆☆☆  || **Postman**         | ![Postman](https://skillicons.dev/icons?i=postman)               | ★★★☆☆  |
 | **Azure**           | ![Azure](https://skillicons.dev/icons?i=azure)                     | ★★☆☆☆  || **Git**      | ![Git](https://skillicons.dev/icons?i=git)         | ★★☆☆☆  || **Bash**     | ![Bash](https://skillicons.dev/icons?i=bash)       | ★★☆☆☆  |
 
-#### **Currently Learning**
+#### **Learning**
 
 | Skill       | Icon | Level |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Level |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Level |
 |-------------|------|-------|------------------|-------------|------|-------|------------------|-------------|------|-------|
