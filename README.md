@@ -22,8 +22,8 @@
 | Stars | Level | Description |
 |-------|-------|-------------|
 | ★★★★★         | SR Level | Full knowledge - Around 100 projects |
-| ★★★★☆         | Middle Advanced Level | Strong knowledge - Around 50 projects |
-| ★★★☆☆         | Middle Level | Around 25 projects |
+| ★★★★☆         | Advanced Level | Strong knowledge - Around 50 projects |
+| ★★★☆☆         | Middle Level | Around 20 projects |
 | ★★☆☆☆         | JR Level | Basic Expertise - Less than 10 projects |
 | ★☆☆☆☆         | Entry Level | Fundamental Knowledge |
 
