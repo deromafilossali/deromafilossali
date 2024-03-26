@@ -27,10 +27,6 @@
 | ★★☆☆☆         | JR Level | Basic Expertise - Less than 10 projects |
 | ★☆☆☆☆         | Entry Level | Fundamental Knowledge |
 
-#### **IDE**
-
-| **VS Code**     | ![VSCode](https://skillicons.dev/icons?i=vscode)          | **Pycharm**         | ![Pycharm](https://skillicons.dev/icons?i=pycharm)               | **Sublime**       | ![Sublime](https://skillicons.dev/icons?i=sublime)           |
-|-------------|------|-------------|------|-------------|------|
 </div>
 
 ###
